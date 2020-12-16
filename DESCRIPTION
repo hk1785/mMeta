@@ -1,0 +1,12 @@
+Package: mMeta
+Version: 1.1
+Title: Multi-marker meta analysis (mMeta) and Adaptive multi-marker meta-analysis (aMeta)
+Date: 2020-12-16
+Author: Hyunwook Koh
+Maintainer: Hyunwook Koh <hyunwook.koh@stonybrook.edu>
+Description: This R package provides facilities for multi-marker meta analysis (mMeta) and adaptive multi-marker meta-analysis (aMeta) which conduct meta-analyses to combine multiple studies throughout multiple related markers.
+NeedsCompilation: no
+Depends: R(>= 4.0.3), forestplot, MASS, vegan
+License: GPL-2
+NeedsCompilation: no
+URL: https://github.com/hk1785/mMeta
