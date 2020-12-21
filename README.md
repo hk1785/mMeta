@@ -184,9 +184,6 @@ A list of regression coefficients and their standard errors for the 15 human mic
 ### Example
 Import requisite R packages
 ```
-library(forestplot)
-library(MASS)
-library(vegan)
 library(mMeta)
 ```
 Import summary data for 15 HIV studies and 6 alpha-diversity indices 
