@@ -4,7 +4,7 @@ Title: Multi-marker meta analysis (mMeta) & Adaptive multi-marker meta-analysis 
 
 Version: 1.0
 
-Date: 2020-12-15
+Date: 2021-2-11
 
 Author: Hyunwook Koh
 
@@ -24,7 +24,7 @@ URL: https://github.com/hk1785/mMeta
 
 ## Reference
 
-* Koh H, Zhao N. Meta-analysis methods for multiple related markers: applications to microbiome studies with the results on multiple α-diversity indices _Statistics in Medicine_ (_Accepted_)
+* Koh H, Zhao N. Meta-analysis methods for multiple related markers: applications to microbiome studies with the results on multiple α-diversity indices. **_Statistics in Medicine_** (_Accepted_)
 
 ## Troubleshooting Tips
 
@@ -82,7 +82,7 @@ mMeta.aMeta(est, std.err, tau0=FALSE, n.perm=5000, seed=NULL)
 Pooled estimates, 95% confidence intervals, p-values for each marker and across markers using mMeta, and a p-value across markers using aMeta
 
 ### References
-* Koh H, Zhao N. Meta-analysis methods for multiple related markers: applications to microbiome studies with the results on multiple α-diversity indices _Statistics in Medicine_ (_Accepted_)
+* Koh H, Zhao N. Meta-analysis methods for multiple related markers: applications to microbiome studies with the results on multiple α-diversity indices. **_Statistics in Medicine_** (_Accepted_)
 
 ### Example
 Import requisite R packages
@@ -132,7 +132,7 @@ mMeta.aMeta.plot(mMeta.aMeta.out)
 A forest plot for each marker, and across markers using mMeta and aMeta
 
 ### References
-* Koh H, Zhao N. Meta-analysis methods for multiple related markers: applications to microbiome studies with the results on multiple α-diversity indices _Statistics in Medicine_ (_Accepted_)
+* Koh H, Zhao N. Meta-analysis methods for multiple related markers: applications to microbiome studies with the results on multiple α-diversity indices. **_Statistics in Medicine_** (_Accepted_)
 
 ### Example
 Import requisite R packages
@@ -179,7 +179,7 @@ mMeta.aMeta.plot(mMeta.aMeta.out=out2)
 A list of regression coefficients and their standard errors for the 15 human microbiome studies for the association between HIV status and each of the 6 alpha-diversity indices, Richness (Observed), Shannon, Simpson, PD, PE and PQE. 
 
 ### References
-* Koh H, Zhao N. Meta-analysis methods for multiple related markers: applications to microbiome studies with the results on multiple α-diversity indices _Statistics in Medicine_ (_Accepted_)
+* Koh H, Zhao N. Meta-analysis methods for multiple related markers: applications to microbiome studies with the results on multiple α-diversity indices. **_Statistics in Medicine_** (_Accepted_)
 
 ### Example
 Import requisite R packages
